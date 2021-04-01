@@ -14,6 +14,8 @@
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' width='48' alt='react' />
 </div>
 
-- 📫  How to reach me: 
-	- Email: me@mahmutcan.work
-	- Discord: mcan#0001
+```
+📫  How to reach me: 
+Email: me@mahmutcan.work
+Discord: mcan#0001
+```
