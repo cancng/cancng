@@ -16,6 +16,6 @@
 
 ```
 📫  How to reach me: 
-Email: me@mahmutcan.work
-Discord: mcan#0001
+Email: me@mahmutcan.dev
+Discord: mcan#8832
 ```
