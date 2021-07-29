@@ -3,7 +3,7 @@
 <h4 align='center'>Student at Cukurova University</h4>
 <hr />
 
-<h4>Languages & Technologies</h4>
+<h4>Languages, Technologies and Tools</h4>
 <div align='left'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' width='48' alt='vscode' />
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='48' alt='javascript' />
