@@ -20,5 +20,4 @@
 ```
 📫  How to reach me: 
 Email: me@mahmutcan.dev
-Discord: bomi#8761
 ```
