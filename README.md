@@ -7,7 +7,6 @@
 <div align='left'>
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width='60' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg' width='60' />
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='60' alt='javascript' />
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='60' alt='typescript' />
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' width='60' alt='nodejs' />
