@@ -4,7 +4,7 @@ Hi 👋 My name is Mahmut Can Çıngı
 Web Developer
 -------------
 
-I am a full-stack web developer. I’m currently a computer science student. I am coding my projects using TypeScript. I use React for frontend applications. For the backend, I use Node.js.
+I am a full-stack software developer, and I code my projects using TypeScript. For frontend applications, I use React, and for the backend, I prefer Node.js. Currently, I am working as a Flutter Developer.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [me@mahmutcan.dev](mailto:me@mahmutcan.dev)
